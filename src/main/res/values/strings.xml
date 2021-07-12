@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">Welcome!!</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="text_details">Next</string>
+    <string name="textDateOfBirth">Date Of Birth</string>
+    <string name="details_first_name">First name: %s</string>
+    <string name="details_last_name">Last name: %s</string>
+    <string name="details_age">Age: %s</string>
+    <string name="title_about_me">About Me</string>
+    <string name="title_details">About Me Details</string>
+
+
+</resources>
