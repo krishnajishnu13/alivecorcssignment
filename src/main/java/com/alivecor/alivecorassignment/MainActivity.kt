@@ -31,11 +31,5 @@ class MainActivity : AppCompatActivity() {
         navController = findNavController(R.id.myNavHostFragment)
         return navController.navigateUp()
     }
-//    private fun addsomething(view: View){
-//        //val editText  = findViewById<EditText>(R.id.editTextFirstName)
-//        val editText = binding.editTextFirstName.text
-//
-//        val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
-//        imm.hideSoftInputFromWindow(view.windowToken,0)
-//    }
+
 }
